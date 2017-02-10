@@ -10,7 +10,7 @@ https://www.continuum.io/downloads
 
 
 
-Hier passiert alles mit IPython Notebooks von Jupyter
+In dieser Blockvorlesung passiert alles mit IPython Notebooks von Jupyter
 
 Ein Tutorial zum Aufsetzen unter Linux Ubuntu:
 
