@@ -19,3 +19,5 @@ https://docs.microsoft.com/de-de/azure/virtual-machines/virtual-machines-linux-j
 
 oder:
 https://bodo-schoenfeld.de/python-notebook-ubuntu/
+
+(Tribute for Solution goes mostly to Kevin Dungs)
